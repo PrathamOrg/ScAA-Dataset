@@ -49,7 +49,7 @@ Though there are various types of questions in one assessment, we focus on free 
      Over a period of 8 months, the app helped collect ~50,000 answers from 11,476 children to 32 science questions from 3 states of India.
 
 ### User answer evaluation
- The ScAA dataset was created by selecting a subset of these collected answers and getting each answer evaluated as correct or incorrect by two human annotators. The Cohen’s Kappa κ score indicating level of agreement between two annotators was 0.75. ScAA consists of answers where both human evaluators matched in their markings.
+ The ScAA dataset was created by selecting a subset of these collected answers and getting each answer evaluated as correct or incorrect by two human annotators. The Cohen’s Kappa κ score indicating level of agreement between two annotators was 0.75. ScAA consists of answers where both human evaluators matched in their markings. The answers marked as 1 are correct and those marked as 2 are incorrect. 
  
 Detailed statistics are listed below:
 
